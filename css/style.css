@@ -1,0 +1,12 @@
+#logo {
+    width: 40px;
+}
+
+body {
+	background-image: url("../img/fundo.jpg");
+
+}	
+
+#container{
+	margin-top: 70px;
+}
